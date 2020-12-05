@@ -1,0 +1,48 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/ft_strcmp.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex05/ft_strlcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex05/ft_strlcat.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex04/ft_strstr.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/ft_strstr.c
+> git show --textconv :C_03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/ft_strncat.c
+> git show --textconv :C_03/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/ft_strcmp.c
+> git show --textconv :C_03/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex01/ft_strncmp.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/ft_strcat.c
+> git show --textconv :C_03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/ft_strncat.c
+> git show --textconv :C_03/ex04/ft_strstr.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/ft_strstr.c
+> git show --textconv :C_03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/ft_strncat.c
+> git show --textconv :C_03/ex04/ft_strstr.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/ft_strstr.c
+> git show --textconv :C_03/ex05/ft_strlcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex05/ft_strlcat.c
+> git show --textconv :C_03/ex04/ft_strstr.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/ft_strstr.c
+> git show --textconv :C_03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/ft_strncat.c

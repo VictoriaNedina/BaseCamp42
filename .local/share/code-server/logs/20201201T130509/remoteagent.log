@@ -1,0 +1,2 @@
+[2020-12-01 13:05:14.280] [remoteagent] [warning] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/vnedina-/Shell/Shell_00/ex02/test0/test6'
+[2020-12-01 13:05:14.290] [remoteagent] [warning] [File Watcher (chokidar)] Error: ELOOP: too many symbolic links encountered, stat '/home/vnedina-/Shell/Shell_00/ex02/test6/test6'

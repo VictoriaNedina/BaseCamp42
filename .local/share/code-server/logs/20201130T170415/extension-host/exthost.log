@@ -1,0 +1,18 @@
+[2020-11-30 17:04:28.462] [exthost] [info] extension host started
+[2020-11-30 17:04:28.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-30 17:04:28.800] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-11-30 17:04:28.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-30 17:04:28.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-30 17:04:28.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-30 17:04:28.839] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-11-30 17:04:28.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-30 17:04:28.912] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-30 17:04:28.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-30 17:04:28.918] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-11-30 17:04:28.920] [exthost] [info] ExtensionService#_doActivateExtension kube.42header {"startup":true,"extensionId":{"value":"kube.42header","_lower":"kube.42header"},"activationEvent":"*"}
+[2020-11-30 17:04:28.920] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/vnedina-/.local/share/code-server/extensions/kube.42header-0.42.7/out/src/extension
+[2020-11-30 17:04:30.863] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-30 17:04:30.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2020-11-30 17:04:31.088] [exthost] [info] eager extensions activated
+[2020-11-30 17:04:43.931] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vnedina-/q/ex00' is in submodule 'q'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-11-30 17:04:43.931] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vnedina-/q/ex00' is in submodule 'q'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

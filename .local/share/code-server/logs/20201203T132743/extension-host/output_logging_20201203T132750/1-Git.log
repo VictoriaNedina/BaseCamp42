@@ -1,0 +1,373 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Avaliações/dteixeir/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dteixeir/ex03/ft_atoi.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/C04/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/Main/C04/ex03/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git show --textconv :Comandos/Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos/Comandos.txt
+> git show --textconv :Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git show --textconv :C_05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/ft_iterative_factorial.c
+> git show --textconv :Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/ft_iterative_factorial.c
+> git show --textconv :C_05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/ft_recursive_factorial.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex01/ft_recursive_factorial.c
+> git show --textconv :C_05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/ft_recursive_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex02*/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex02*/ft_iterative_power.c
+> git show --textconv :Avaliações/vcordeir_C05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex01/ft_recursive_factorial.c
+> git show --textconv :Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git show --textconv :Avaliações/vcordeir_C05/ex02*/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex02*/ft_iterative_power.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git show --textconv :C_05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/ft_iterative_power.c
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git show --textconv :C_05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/ft_iterative_power.c
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git show --textconv :C_05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/ft_iterative_power.c
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git show --textconv :Avaliações/vcordeir_C05/ex02*/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex02*/ft_iterative_power.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/ft_recursive_factorial.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/ft_iterative_factorial.c
+> git show --textconv :Comandos/Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos/Comandos.txt
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :Avaliações/vcordeir_C05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :Avaliações/vcordeir_C05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :Avaliações/vcordeir_C05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :Avaliações/vcordeir_C05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :Comandos/Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos/Comandos.txt
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex04/a.out
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex08/ft_ten_queens_puzzle.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex02/ft_putnbr.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex02/ft_putnbr.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex02/ft_str_is_alpha.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/ft_str_is_alpha.c
+> git show --textconv :C_04/ex02/ft_putnbr.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex02/ft_putnbr.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/ft_atoi.c
+> git show --textconv :C_04/ex02/ft_putnbr.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex02/ft_putnbr.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex08/ft_ten_queens_puzzle.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex08/ft_ten_queens_puzzle.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :Avaliações/vcordeir_C05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/ft_iterative_factorial.c
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex08/ft_ten_queens_puzzle.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex08/ft_ten_queens_puzzle.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :Avaliações/vcordeir_C05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/teste/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/teste/ex02/ft_iterative_power.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/teste/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :teste/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/teste/ex07/ft_find_next_prime.c
+> git show --textconv :Avaliações/vcordeir_C05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex07/ft_find_next_prime.c
+> git show --textconv :teste/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/teste/ex07/ft_find_next_prime.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/akatayam_C03/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex01/ft_strncmp.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex01/ft_strncmp.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C05/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C05/ex01/ft_recursive_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex02/ft_iterative_power.c
+> git show --textconv :C05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex03/ft_recursive_power.c
+> git show --textconv :C05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex02/ft_iterative_power.c
+> git show --textconv :C05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex03/ft_recursive_power.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C05/ex04/ft_fibonacci.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C05/ex05/ft_sqrt.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C05/ex06/ft_is_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C05/ex07/ft_find_next_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C05/ex08/ft_ten_queens_puzzle.c
+> git show --textconv :C05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C05/ex07/ft_find_next_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/main05
+> git ls-files --stage -- /home/vnedina-/Main/main05
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/ft_atoi.c
+> git show --textconv :C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C05/ex00/ft_iterative_factorial.c
+> git show --textconv :C05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C05/ex01/ft_recursive_factorial.c
+> git show --textconv :C05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex02/ft_iterative_power.c
+> git show --textconv :C05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex03/ft_recursive_power.c
+> git show --textconv :C05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C05/ex04/ft_fibonacci.c
+> git show --textconv :C05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C05/ex05/ft_sqrt.c
+> git show --textconv :teste/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/teste/ex00/ft_iterative_factorial.c
+> git show --textconv :teste/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/teste/ex01/ft_recursive_factorial.c
+> git show --textconv :teste/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/teste/ex02/ft_iterative_power.c
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/teste/ex03/ft_recursive_power.c
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/teste/ex04/ft_fibonacci.c
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/teste/ex05/ft_sqrt.c
+> git show --textconv :teste/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/teste/ex06/ft_is_prime.c
+> git show --textconv :teste/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/teste/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/ft_iterative_factorial.c
+> git show --textconv :C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C05/ex00/ft_iterative_factorial.c
+> git show --textconv :C05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C05/ex01/ft_recursive_factorial.c
+> git show --textconv :C05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex02/ft_iterative_power.c
+> git show --textconv :C_05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/ft_iterative_power.c
+> git show --textconv :C05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex02/ft_iterative_power.c
+> git show --textconv :C05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C05/ex03/ft_recursive_power.c
+> git show --textconv :C05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C05/ex04/ft_fibonacci.c
+> git show --textconv :C05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C05/ex05/ft_sqrt.c
+> git show --textconv :C05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C05/ex06/ft_is_prime.c
+> git show --textconv :C05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C05/ex07/ft_find_next_prime.c
+> git show --textconv :C05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C05/ex08/ft_ten_queens_puzzle.c

@@ -1,0 +1,155 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280
+> git show --textconv :Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos.txt
+> git show --textconv :J_Rush01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex00/ft_ft.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex00/ft_ft.c
+> git cat-file -s a91af071d1f86d33d91199b9a2ab75aa1ab2bb5a
+> git show --textconv :C_01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex00/main.c
+> git cat-file -s 12558ca605c5c594346a7a8f2df059bcca414737
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex00/ft_ft.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex00/ft_ft.c
+> git cat-file -s a91af071d1f86d33d91199b9a2ab75aa1ab2bb5a
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_01/ex02/a.out
+> git check-ignore -v -z --stdin
+> git show --textconv :J_Rush01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/main.c
+> git show --textconv :C_01/ex01/ft_ultimate_ft.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex01/ft_ultimate_ft.c
+> git cat-file -s 9de76850cb31768719a09e3bd5638fadfb9e2eae
+> git show --textconv :C_01/ex03/ft_div_mod.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex03/ft_div_mod.c
+> git cat-file -s 19f6dec52b3c2a77c350bf6b7282d39f56dc4bc2
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex04/ft_ultimate_div_mod.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex04/ft_ultimate_div_mod.c
+> git cat-file -s 075999657567ef0dfd5945c9cddf3a82eeba73b4
+> git show --textconv :C_01/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git show --textconv :C_01/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/main.c
+> git cat-file -s dfb7d6020eae13dd283598f979f6e46b7c7c9670
+> git show --textconv :C_01/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git show --textconv :C_01/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/main.c
+> git cat-file -s dfb7d6020eae13dd283598f979f6e46b7c7c9670
+> git show --textconv :C_01/ex06/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex06/ft_strlen.c
+> git cat-file -s c30472cb11f37bcd2700fb6b71cbc3234234a723
+> git show --textconv :C_01/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex06/main.c
+> git cat-file -s 43d5f5e00e4aacc369cc995443bfc70a6b842daf
+> git show --textconv :C_01/ex06/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex06/ft_strlen.c
+> git cat-file -s c30472cb11f37bcd2700fb6b71cbc3234234a723
+> git show --textconv :C_01/ex07/ft_rev_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/ft_rev_int_tab.c
+> git cat-file -s 798066877dbf30c37e1aab91ffc647715a4f814c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_01/ex08/main.c
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git show --textconv :J_Rush01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/main.c
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git show --textconv :C_01/ex07/ft_rev_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/ft_rev_int_tab.c
+> git cat-file -s 798066877dbf30c37e1aab91ffc647715a4f814c
+> git show --textconv :C_01/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/main.c
+> git cat-file -s 323333d8ad220233a80a485b6f1d75b526cdb8ae
+> git show --textconv :C_01/ex07/ft_rev_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/ft_rev_int_tab.c
+> git cat-file -s 798066877dbf30c37e1aab91ffc647715a4f814c
+> git show --textconv :C_01/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/main.c
+> git cat-file -s 323333d8ad220233a80a485b6f1d75b526cdb8ae
+> git show --textconv :C_01/ex07/ft_rev_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/ft_rev_int_tab.c
+> git cat-file -s 798066877dbf30c37e1aab91ffc647715a4f814c
+> git show --textconv :C_01/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/main.c
+> git cat-file -s 323333d8ad220233a80a485b6f1d75b526cdb8ae
+> git show --textconv :C_01/ex07/ft_rev_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/ft_rev_int_tab.c
+> git cat-file -s 798066877dbf30c37e1aab91ffc647715a4f814c
+> git show --textconv :C_01/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/main.c
+> git cat-file -s 323333d8ad220233a80a485b6f1d75b526cdb8ae
+> git show --textconv :C_01/ex07/ft_rev_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/ft_rev_int_tab.c
+> git cat-file -s 798066877dbf30c37e1aab91ffc647715a4f814c
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git check-ignore -v -z --stdin

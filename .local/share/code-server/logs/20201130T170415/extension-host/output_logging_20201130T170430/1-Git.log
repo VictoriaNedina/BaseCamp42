@@ -1,0 +1,49 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :q/ex00/ft_rush01.c
+> git ls-files --stage -- /home/vnedina-/q/ex00/ft_rush01.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :J_Rush01/ex00/ft_rush01.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/ft_rush01.c
+> git check-ignore -v -z --stdin
+> git show --textconv :J_Rush01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/main.c
+> git show --textconv :J_Rush01/ex00/ft_rush01.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/ft_rush01.c
+> git show --textconv :J_Rush01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/main.c
+> git show --textconv :J_Rush01/ex00/ft_rush01.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/ft_rush01.c
+> git show --textconv :J_Rush01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/main.c
+> git show --textconv :J_Rush01/ex00/ft_rush01.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/ft_rush01.c
+> git show --textconv :J_Rush01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/main.c
+> git show --textconv :J_Rush01/ex00/ft_rush01.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/ft_rush01.c
+> git show --textconv :J_Rush01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/J_Rush01/ex00/main.c
+> git show --textconv :C_01/ex08/ft_sort_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/ft_sort_int_tab.c
+> git cat-file -s 794781827111df98c9e14430ab4fb6976dd8407a
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280

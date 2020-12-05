@@ -1,0 +1,43 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :C05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C05/ex08/ft_ten_queens_puzzle.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C05/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/teste/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/teste/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/main05
+> git ls-files --stage -- /home/vnedina-/Main/main05
+> git show --textconv :teste/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/teste/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/Comandos/testeC_02.sh
+> git show --textconv :Comandos/testeC_02.sh
+> git ls-files --stage -- /home/vnedina-/Comandos/testeC_02.sh
+> git show --textconv :Comandos/Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos/Comandos.txt
+> git show --textconv :teste/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/teste/ex00/ft_iterative_factorial.c

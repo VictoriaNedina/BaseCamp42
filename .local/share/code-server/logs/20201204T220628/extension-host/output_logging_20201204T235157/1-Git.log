@@ -1,0 +1,982 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_00/ex00/ft_putchar.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/ft_putchar.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/akatayam_C03/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex01/ft_strncmp.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/ft_strcmp.c
+> git show --textconv :C_03/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/main.c
+> git show --textconv :C_03/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/ft_strcmp.c
+> git show --textconv :C_03/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/main.c
+> git show --textconv :C_03/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/ft_strcmp.c
+> git show --textconv :C_03/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/akatayam_C03/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex00/ft_strcmp.c
+> git show --textconv :C_03/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/ft_strcmp.c
+> git show --textconv :C_03/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex01/ft_strncmp.c
+> git show --textconv :Avaliações/akatayam_C03/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex01/ft_strncmp.c
+> git show --textconv :C_03/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex01/ft_strncmp.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/ft_strcat.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/akatayam_C03/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex02/ft_strcat.c
+> git show --textconv :C_03/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/ft_strcat.c
+> git show --textconv :C_03/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex01/ft_strncmp.c
+> git show --textconv :C_03/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex01/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/ft_strncat.c
+> git show --textconv :C_03/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/akatayam_C03/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex02/ft_strcat.c
+> git show --textconv :C_03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/ft_strncat.c
+> git show --textconv :C_03/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/akatayam_C03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex03/ft_strncat.c
+> git show --textconv :C_03/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/main.c
+> git show --textconv :C_03/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/ft_strcat.c
+> git show --textconv :C_03/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/main.c
+> git show --textconv :C_03/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex02/ft_strcat.c
+> git show --textconv :C_03/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/main.c
+> git show --textconv :C_03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex03/ft_strncat.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex04/ft_strstr.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/ft_strstr.c
+> git show --textconv :C_03/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/akatayam_C03/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex03/ft_strncat.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/akatayam_C03/ex04/ft_strstr.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex04/ft_strstr.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex05/ft_strlcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex05/ft_strlcat.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex05/main.c
+> git show --textconv :Avaliações/akatayam_C03/ex05/ft_strlcat.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/akatayam_C03/ex05/ft_strlcat.c
+> git show --textconv :C_03/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex05/main.c
+> git show --textconv :C_03/ex05/ft_strlcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex05/ft_strlcat.c
+> git show --textconv :C_03/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/main.c
+> git show --textconv :C_03/ex05/ft_strlcat.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex05/ft_strlcat.c
+> git show --textconv :C_03/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex05/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/apaduan-/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex01/ft_strncpy.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/mmoreira_C02/ex10/ft_strlcpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/mmoreira_C02/ex10/ft_strlcpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/mmoreira_C02/ex11/ft_putstr_non_printable.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/mmoreira_C02/ex11/ft_putstr_non_printable.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_06/ex03/ft_sort_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex03/ft_sort_params.c
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_06/ex00/a.out
+> git check-ignore -v -z --stdin
+> git show --textconv :C_06/ex01/ft_print_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex01/ft_print_params.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_06/ex02/ft_rev_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex02/ft_rev_params.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_06/ex03/ft_sort_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex03/ft_sort_params.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_06/ex02/a.out
+> git show --textconv :C_06/ex02/ft_rev_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex02/ft_rev_params.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_00/ex00/ft_putchar.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/ft_putchar.c
+> git show --textconv :C_00/ex01/ft_print_alphabet.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex01/ft_print_alphabet.c
+> git show --textconv :C_00/ex00/ft_putchar.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/ft_putchar.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_00/ex03/ft_print_numbers.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex03/ft_print_numbers.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_00/ex05/ft_print_comb.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex05/ft_print_comb.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gpinheiro/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/gpinheiro/ex00/ft_strcpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gpinheiro/ex05/ft_str_is_uppercase.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/gpinheiro/ex05/ft_str_is_uppercase.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex02/find_sh.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex02/find_sh.sh
+> git show --textconv :C_06/ex02/ft_rev_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex02/ft_rev_params.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex00/ft_iterative_factorial.c
+> git show --textconv :Avaliações/vcordeir_C05/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/vcordeir_C05/ex00/main.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex01/a.out
+> git show --textconv :C_05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/ft_recursive_factorial.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/ft_iterative_power.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex03/a.out
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wkauan-b_C01/ex01/ft_ultimate_ft.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/wkauan-b_C01/ex01/ft_ultimate_ft.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wkauan-b_C01/ex03/ft_div_mod.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/wkauan-b_C01/ex03/ft_div_mod.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wkauan-b_C01/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/wkauan-b_C01/ex05/ft_putstr.c
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/mmoreira_C02/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/mmoreira_C02/ex00/ft_strcpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/mmoreira_C02/ex03/ft_str_is_numeric.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/mmoreira_C02/ex03/ft_str_is_numeric.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/mmoreira_C02/ex06/ft_str_is_printable.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/mmoreira_C02/ex06/ft_str_is_printable.c
+> git show --textconv :Avaliações/mmoreira_C02/ex07/ft_strupcase.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/mmoreira_C02/ex07/ft_strupcase.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/larissac_02/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/larissac_02/ex00/ft_strcpy.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/ft_strcpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex02/ft_str_is_alpha.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/ft_str_is_alpha.c
+> git show --textconv :Avaliações/larissac_02/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/larissac_02/ex00/ft_strcpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/larissac_02/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/larissac_02/ex01/ft_strncpy.c
+> git show --textconv :Avaliações/larissac_02/ex03/ft_str_is_numeric.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/larissac_02/ex03/ft_str_is_numeric.c
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex07/ft_strupcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/ft_strupcase.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex08/ft_strlowcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/ft_strlowcase.c
+> git show --textconv :C_02/ex07/ft_strupcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/ft_strupcase.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/dtupinam/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dtupinam/ex00/ft_strcpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/dtupinam/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dtupinam/ex01/ft_strncpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/dtupinam/ex08/ft_strlowcase.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dtupinam/ex08/ft_strlowcase.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/dteixeir/ex00/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dteixeir/ex00/ft_strlen.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex00/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex00/ft_strlen.c
+> git show --textconv :Avaliações/dteixeir/ex00/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dteixeir/ex00/ft_strlen.c
+> git show --textconv :C_04/ex00/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex00/ft_strlen.c
+> git show --textconv :C_04/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex00/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex00/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex00/ft_strlen.c
+> git show --textconv :C_04/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex00/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex01/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex01/ft_putstr.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/dteixeir/ex01/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dteixeir/ex01/ft_putstr.c
+> git show --textconv :C_04/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex01/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex02/ft_putnbr.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex02/ft_putnbr.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/dteixeir/ex02/ft_putnbr.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dteixeir/ex02/ft_putnbr.c
+> git show --textconv :C_04/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex02/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/dteixeir/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dteixeir/ex03/ft_atoi.c
+> git show --textconv :C_04/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/main.c
+> git show --textconv :Avaliações/dteixeir/ex04/ft_putnbr_base.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/dteixeir/ex04/ft_putnbr_base.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/apaduan-/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex00/ft_strcpy.c
+> git show --textconv :C_02/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/ft_strcpy.c
+> git show --textconv :C_02/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex03/main.
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main.
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex03/main. 
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main. 
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex03/main.c 
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main.c 
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git show --textconv :C_02/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex06/main.
+> git ls-files --stage -- /home/vnedina-/C_02/ex06/main.
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/main.c
+> git show --textconv :C_02/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex06/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/main.c
+> git show --textconv :Avaliações/apaduan-/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex00/ft_strcpy.c
+> git show --textconv :C_02/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/ft_strcpy.c
+> git show --textconv :C_02/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/main.c
+> git show --textconv :C_02/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/ft_strcpy.c
+> git show --textconv :C_02/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/main.c
+> git show --textconv :C_02/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/ft_strncpy.c
+> git show --textconv :C_02/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/main.c
+> git show --textconv :Avaliações/apaduan-/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex01/ft_strncpy.c
+> git show --textconv :C_02/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/main.c
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/apaduan-/ex02/ft_str_is_alpha.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex02/ft_str_is_alpha.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/apaduan-/ex03/ft_str_is_numeric.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex03/ft_str_is_numeric.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/apaduan-/ex04/ft_str_is_lowercase.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex04/ft_str_is_lowercase.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/apaduan-/ex05/ft_str_is_uppercase.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex05/ft_str_is_uppercase.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/apaduan-/ex07/ft_strupcase.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex07/ft_strupcase.c
+> git show --textconv :Avaliações/apaduan-/ex05/ft_str_is_uppercase.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex05/ft_str_is_uppercase.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/apaduan-/ex06/ft_str_is_printable.c
+> git ls-files --stage -- /home/vnedina-/Avaliações/apaduan-/ex06/ft_str_is_printable.c
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex01/main.c
+> git show --textconv :C_04/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex00/ft_ft.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex00/ft_ft.c
+> git cat-file -s a91af071d1f86d33d91199b9a2ab75aa1ab2bb5a
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git show --textconv :C_02/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/main.c
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git show --textconv :C_02/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main.c
+> git show --textconv :C_02/ex04/ft_str_is_lowercase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/ft_str_is_lowercase.c
+> git show --textconv :C_02/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/main.c
+> git show --textconv :C_02/ex04/ft_str_is_lowercase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/ft_str_is_lowercase.c
+> git show --textconv :C_02/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/main.c
+> git show --textconv :C_02/ex05/ft_str_is_uppercase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/ft_str_is_uppercase.c
+> git show --textconv :C_02/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/main.c
+> git show --textconv :C_02/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex06/main.c
+> git show --textconv :C_02/ex07/ft_strupcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/ft_strupcase.c
+> git show --textconv :C_02/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/main.c
+> git show --textconv :C_02/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/main.c
+> git show --textconv :C_05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/ft_recursive_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :dantonio/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex00/ft_strcmp.c
+> git show --textconv :Main/teste03.sh
+> git ls-files --stage -- /home/vnedina-/Main/teste03.sh
+> git show --textconv :dantonio/teste03.sh
+> git ls-files --stage -- /home/vnedina-/dantonio/teste03.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :dantonio/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex00/ft_strcmp.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/MainC03
+> git ls-files --stage -- /home/vnedina-/Main/MainC03
+> git show --textconv :dantonio/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex00/ft_strcmp.c
+> git show --textconv :dantonio/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex01/ft_strncmp.c
+> git show --textconv :Main/MainC03
+> git ls-files --stage -- /home/vnedina-/Main/MainC03
+> git show --textconv :dantonio/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex01/ft_strncmp.c
+> git check-ignore -v -z --stdin
+> git show --textconv :dantonio/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex02/ft_strcat.c
+> git show --textconv :Main/MainC03
+> git ls-files --stage -- /home/vnedina-/Main/MainC03
+> git show --textconv :dantonio/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex02/ft_strcat.c
+> git show --textconv :dantonio/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex03/ft_strncat.c
+> git show --textconv :Main/MainC03
+> git ls-files --stage -- /home/vnedina-/Main/MainC03
+> git show --textconv :dantonio/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex03/ft_strncat.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_03/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/ft_strcmp.c
+> git check-ignore -v -z --stdin
+> git show --textconv :dantonio/ex00/ft_strcmp.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex00/ft_strcmp.c
+> git show --textconv :dantonio/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex01/ft_strncmp.c
+> git check-ignore -v -z --stdin
+> git show --textconv :dantonio/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex02/ft_strcat.c
+> git check-ignore -v -z --stdin
+> git show --textconv :dantonio/teste03.sh
+> git ls-files --stage -- /home/vnedina-/dantonio/teste03.sh
+> git show --textconv :dantonio/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex03/ft_strncat.c
+> git show --textconv :dantonio/ex02/ft_strcat.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex02/ft_strcat.c
+> git show --textconv :dantonio/ex03/ft_strncat.c
+> git ls-files --stage -- /home/vnedina-/dantonio/ex03/ft_strncat.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lpinheiro/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex00/ft_iterative_factorial.c
+> git check-ignore -v -z --stdin
+> git show --textconv :lpinheiro/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex01/ft_recursive_factorial.c
+> git show --textconv :lpinheiro/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex00/ft_iterative_factorial.c
+> git show --textconv :lpinheiro/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex01/ft_recursive_factorial.c
+> git show --textconv :lpinheiro/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex00/ft_iterative_factorial.c
+> git show --textconv :lpinheiro/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex01/ft_recursive_factorial.c
+> git show --textconv :lpinheiro/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex00/ft_iterative_factorial.c
+> git show --textconv :lpinheiro/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex01/ft_recursive_factorial.c
+> git show --textconv :C_05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/ft_recursive_factorial.c
+> git show --textconv :lpinheiro/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex01/ft_recursive_factorial.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lpinheiro/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex02/ft_iterative_power.c
+> git show --textconv :C_05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/ft_iterative_power.c
+> git show --textconv :lpinheiro/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex02/ft_iterative_power.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lpinheiro/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex03/ft_recursive_power.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :lpinheiro/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex05/ft_sqrt.c
+> git check-ignore -v -z --stdin
+> git show --textconv :lpinheiro/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex06/ft_is_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :lpinheiro/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex07/ft_find_next_prime.c
+> git check-ignore -v -z --stdin
+> git show --textconv :lpinheiro/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/lpinheiro/ex08/ft_ten_queens_puzzle.c
+> git show --textconv :C_02/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/main.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex01/a.out
+> git show --textconv :C_02/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/main.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex00/a.out
+> git show --textconv :C_02/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/main.c
+> git show --textconv :C_05/ex00/ft_iterative_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/ft_iterative_factorial.c
+> git show --textconv :C_05/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex01/ft_recursive_factorial.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/ft_recursive_factorial.c
+> git show --textconv :C_05/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/main.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex02/a.out
+> git show --textconv :C_05/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex01/main.c
+> git show --textconv :C_05/ex02/ft_iterative_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/ft_iterative_power.c
+> git show --textconv :C_05/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/main.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex03/a.out
+> git show --textconv :C_05/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex02/main.c
+> git show --textconv :C_05/ex03/ft_recursive_power.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/ft_recursive_power.c
+> git show --textconv :C_05/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex04/a.out
+> git show --textconv :C_05/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex03/main.c
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex04/ft_fibonacci.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/ft_fibonacci.c
+> git show --textconv :C_05/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/main.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex05/a.out
+> git show --textconv :C_05/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex04/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/main.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/main.c
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex06/a.out
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex06/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex05/ft_sqrt.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex05/ft_sqrt.c
+> git show --textconv :C_05/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/main.c
+> git show --textconv :C_05/ex06/ft_is_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/ft_is_prime.c
+> git show --textconv :C_05/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/main.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_05/ex07/a.out
+> git show --textconv :C_05/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex06/main.c
+> git show --textconv :C_05/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex07/ft_find_next_prime.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/ft_find_next_prime.c
+> git show --textconv :C_05/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex08/ft_ten_queens_puzzle.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex08/ft_ten_queens_puzzle.c
+> git show --textconv :C_05/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex07/main.c
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/C01 main/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/Main/C01 main/ex05/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex00/main.c
+> git cat-file -s 12558ca605c5c594346a7a8f2df059bcca414737
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex01/ft_ultimate_ft.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex01/ft_ultimate_ft.c
+> git cat-file -s 9de76850cb31768719a09e3bd5638fadfb9e2eae
+> git show --textconv :C_01/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex01/main.c
+> git cat-file -s 4cb062c94c43b55a0e97ac09b45e6dd020f520ac
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex02/main.c
+> git cat-file -s e3a04dda05703b862c7904c94ea4da4fe28edc5f
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex03/main.c
+> git cat-file -s 73952189a90cf89f243999b38bfc3130f5d8435b
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex04/main.c
+> git cat-file -s f9e3b5d02a2d8b3999938dd6435e2a8a7cfe74d7
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex06/main.c
+> git cat-file -s 43d5f5e00e4aacc369cc995443bfc70a6b842daf
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex07/ft_rev_int_tab.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/ft_rev_int_tab.c
+> git cat-file -s 798066877dbf30c37e1aab91ffc647715a4f814c
+> git show --textconv :C_01/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex07/main.c
+> git cat-file -s 323333d8ad220233a80a485b6f1d75b526cdb8ae
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/C01 main/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/Main/C01 main/ex08/main.c
+> git show --textconv :C_01/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex08/main.c
+> git cat-file -s 951adb5b0e694e0c10d3bcb9db5acc0d32de9280
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_01/ex08/a.out
+> git show --textconv :C_01/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git show --textconv :Main/C02_apaduan.txt
+> git ls-files --stage -- /home/vnedina-/Main/C02_apaduan.txt
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git show --textconv :Main/C02_apaduan.txt
+> git ls-files --stage -- /home/vnedina-/Main/C02_apaduan.txt
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git show --textconv :C_02/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/main.c
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git show --textconv :Main/C02_apaduan.txt
+> git ls-files --stage -- /home/vnedina-/Main/C02_apaduan.txt
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git show --textconv :Main/C02_apaduan.txt
+> git ls-files --stage -- /home/vnedina-/Main/C02_apaduan.txt
+> git show --textconv :C_02/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/main.c
+> git show --textconv :C_03/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/main.c
+> git show --textconv :Main/main05
+> git ls-files --stage -- /home/vnedina-/Main/main05
+> git show --textconv :Main/MainC03
+> git ls-files --stage -- /home/vnedina-/Main/MainC03
+> git show --textconv :C_03/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/main.c
+> git show --textconv :C_05/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/main.c
+> git show --textconv :Main/main05
+> git ls-files --stage -- /home/vnedina-/Main/main05
+> git show --textconv :C_05/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/Comandos/Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Main/Comandos/Comandos.txt
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/Comandos/testeC_02.sh
+> git ls-files --stage -- /home/vnedina-/Main/Comandos/testeC_02.sh
+> git show --textconv :testeC_02.sh
+> git ls-files --stage -- /home/vnedina-/testeC_02.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/Comandos/Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Main/Comandos/Comandos.txt
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/main.c
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git show --textconv :C_02/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/main.c
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git show --textconv :C_02/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main.c
+> git show --textconv :C_02/ex04/ft_str_is_lowercase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/ft_str_is_lowercase.c
+> git show --textconv :C_02/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/main.c
+> git show --textconv :C_02/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/main.c
+> git show --textconv :C_02/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex06/main.c
+> git show --textconv :C_02/ex07/ft_strupcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/ft_strupcase.c
+> git show --textconv :C_02/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/main.c
+> git show --textconv :C_02/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/main.c
+> git show --textconv :C_02/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/main.c
+> git show --textconv :C_02/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex06/main.c
+> git show --textconv :C_02/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/main.c
+> git show --textconv :C_02/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex06/main.c
+> git show --textconv :C_02/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/main.c
+> git show --textconv :C_02/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/main.c
+> git show --textconv :C_02/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main.c
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git show --textconv :C_02/ex02/ft_str_is_alpha.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/ft_str_is_alpha.c
+> git show --textconv :C_02/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/main.c
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git show --textconv :C_02/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main.c
+> git show --textconv :C_02/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/main.c
+> git show --textconv :C_02/ex05/ft_str_is_uppercase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/ft_str_is_uppercase.c
+> git show --textconv :C_02/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/main.c
+> git show --textconv :C_02/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex06/main.c
+> git show --textconv :C_02/ex07/ft_strupcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/ft_strupcase.c
+> git show --textconv :C_02/ex07/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex07/main.c
+> git show --textconv :C_02/ex08/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Comandos/Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos/Comandos.txt
+> git show --textconv :Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos.txt
+> git check-ignore -v -z --stdin
+> git show --textconv :C_05/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/main.c
+> git show --textconv :C_00/ex00/ft_putchar.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/ft_putchar.c
+> git show --textconv :C_05/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_05/ex00/main.c
+> git show --textconv :C_00/ex00/ft_putchar.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/ft_putchar.c
+> git show --textconv :Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos.txt
+> git show --textconv :C_02/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex06/main.c
+> git show --textconv :C_02/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex05/main.c
+> git show --textconv :C_02/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex04/main.c
+> git show --textconv :C_02/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex03/main.c
+> git show --textconv :C_02/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/main.c
+> git show --textconv :C_03/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex04/main.c
+> git show --textconv :C_02/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/main.c
+> git show --textconv :C_02/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex00/main.c
+> git show --textconv :C_03/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_03/ex00/main.c
+> git show --textconv :C_01/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git show --textconv :C_01/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git show --textconv :C_06/ex02/ft_rev_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex02/ft_rev_params.c
+> git show --textconv :C_00/ex00/ft_putchar.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/ft_putchar.c
+> git show --textconv :C_00/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/main.c
+> git show --textconv :C_00/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex01/main.c
+> git show --textconv :C_00/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/main.c
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git show --textconv :Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos.txt
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_06/ex00/a.out
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git show --textconv :C_00/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex00/main.c
+> git show --textconv :C_00/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex01/main.c
+> git show --textconv :C_00/ex02/ft_print_reverse_alphabet.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex02/ft_print_reverse_alphabet.c
+> git show --textconv :C_00/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex02/main.c
+> git show --textconv :C_00/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex03/main.c
+> git show --textconv :C_00/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex04/main.c
+> git show --textconv :C_00/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex05/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_00/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex06/main.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_00/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex03/main.c
+> git show --textconv :C_00/ex02/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex02/main.c
+> git show --textconv :C_00/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex03/main.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/C_00/ex03/main.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/vnedina-/C_00/ex03/main.c
+> git show --textconv :C_00/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex03/main.c
+> git show --textconv :C_00/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex04/main.c
+> git show --textconv :C_00/ex05/ft_print_comb.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex05/ft_print_comb.c
+> git show --textconv :C_00/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex05/main.c
+> git show --textconv :C_00/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex06/main.c
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Rush_01-retry/ex00/ft_rush01.c
+> git ls-files --stage -- /home/vnedina-/Rush_01-retry/ex00/ft_rush01.c
+> git show --textconv :Rush_01-retry/ex00/main.c
+> git ls-files --stage -- /home/vnedina-/Rush_01-retry/ex00/main.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/Rush_01-retry/ex00/a.out
+> git show --textconv :C_06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex00/ft_print_program_name.c
+> git show --textconv :C_00/ex01/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex01/main.c
+> git show --textconv :C_00/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_00/ex06/main.c

@@ -1,0 +1,157 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex10/ft_strlcpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex10/ft_strlcpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex08/ft_strlowcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/ft_strlowcase.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex00/ft_strcpy.c
+> git ls-files --stage -- /home/vnedina-/teste/ex00/ft_strcpy.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex02/ft_str_is_alpha.c
+> git ls-files --stage -- /home/vnedina-/teste/ex02/ft_str_is_alpha.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex08/ft_strlowcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/ft_strlowcase.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex02/ft_str_is_alpha.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/ft_str_is_alpha.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/ft_strncpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git show --textconv :C_02/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/ft_strncpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_02/ex02/ft_str_is_alpha.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex02/ft_str_is_alpha.c
+> git show --textconv :C_02/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/ft_strncpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Main/C02_gunoguei
+> git ls-files --stage -- /home/vnedina-/Main/C02_gunoguei
+> git show --textconv :C_02/ex08/ft_strlowcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/ft_strlowcase.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex01/print_groups.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex01/print_groups.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex02/find_sh.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex02/find_sh.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex03/count_files.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex03/count_files.sh
+> git show --textconv :Avaliações/wsafra-l/ex02/find_sh.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex02/find_sh.sh
+> git show --textconv :Avaliações/wsafra-l/ex03/count_files.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex03/count_files.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex04/MAC.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex04/MAC.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex05/"/?$*'MaRViN'*$?/"
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex05/"\?$*'MaRViN'*$?\"
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex06/skip.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex06/skip.sh
+> git show --textconv :Avaliações/wsafra-l/ex06/teste1
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex06/teste1
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex06/teste2
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex06/teste2
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex06/skip.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex06/skip.sh
+> git show --textconv :Avaliações/wsafra-l/ex06/teste2
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex06/teste2
+> git show --textconv :Avaliações/wsafra-l/ex06/teste1
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex06/teste1
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex07/r_dwssap.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex07/r_dwssap.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/wsafra-l/ex08/add_chelou.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex08/add_chelou.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell/Shell_01/ex08/add_chelou.sh
+> git ls-files --stage -- /home/vnedina-/Shell/Shell_01/ex08/add_chelou.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex01/print_groups.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex01/print_groups.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex02/find_sh.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex02/find_sh.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex03/count_files.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex03/count_files.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex03/AA
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex03/AA
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex03/count_files.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex03/count_files.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell/Shell_01/ex04/MAC.sh
+> git ls-files --stage -- /home/vnedina-/Shell/Shell_01/ex04/MAC.sh
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell/Shell_01/ex03/count_files.sh
+> git ls-files --stage -- /home/vnedina-/Shell/Shell_01/ex03/count_files.sh
+> git show --textconv :Avaliações/wsafra-l/ex06/teste1
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex06/teste1
+> git show --textconv :Avaliações/wsafra-l/ex06/teste2
+> git ls-files --stage -- /home/vnedina-/Avaliações/wsafra-l/ex06/teste2
+> git show --textconv :C_02/ex08/ft_strlowcase.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex08/ft_strlowcase.c
+> git show --textconv :C_02/ex01/ft_strncpy.c
+> git ls-files --stage -- /home/vnedina-/C_02/ex01/ft_strncpy.c
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex04/MAC.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex04/MAC.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex05/"/?$*’MaRViN’*$?/"
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex05/"\?$*’MaRViN’*$?\"
+> git show --textconv :Avaliações/gsouza/ex06/skip.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex06/skip.sh
+> git show --textconv :Avaliações/gsouza/ex06/AA
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex06/AA
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex06/teste
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex06/teste
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Avaliações/gsouza/ex08/add_chelou.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex08/add_chelou.sh
+> git show --textconv :Avaliações/gsouza/ex07/r_dwssap.sh
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex07/r_dwssap.sh
+> git show --textconv :Avaliações/gsouza/ex06/teste
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex06/teste
+> git show --textconv :Avaliações/gsouza/ex06/AA
+> git ls-files --stage -- /home/vnedina-/Avaliações/gsouza/ex06/AA

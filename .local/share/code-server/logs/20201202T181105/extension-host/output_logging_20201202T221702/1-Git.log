@@ -1,0 +1,28 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_04/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/ft_atoi.c
+> git show --textconv :C_04/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/main.c
+> git show --textconv :C_04/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/ft_atoi.c
+> git show --textconv :Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos.txt
+> git show --textconv :C_04/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/C_04/ex03/ft_atoi.c

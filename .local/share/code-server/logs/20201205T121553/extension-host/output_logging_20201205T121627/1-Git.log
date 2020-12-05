@@ -1,0 +1,38 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :C_06/ex02/ft_rev_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex02/ft_rev_params.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_06/ex01/ft_print_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex01/ft_print_params.c
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/vnedina-/C_06/ex01/ft_print_params.c
+fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/vnedina-/C_06/ex01/ft_print_params.c
+> git show --textconv :C_06/ex01/ft_print_params.c
+> git ls-files --stage -- /home/vnedina-/C_06/ex01/ft_print_params.c
+> git show --textconv :C_06/ex01/ft_print_params.c

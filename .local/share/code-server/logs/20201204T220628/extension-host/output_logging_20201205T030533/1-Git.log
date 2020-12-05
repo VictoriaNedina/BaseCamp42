@@ -1,0 +1,74 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :avaliacao/ex05/ft_print_comb.c
+> git ls-files --stage -- /home/vnedina-/avaliacao/ex05/ft_print_comb.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :davi/ex00/ft_ft.c
+> git ls-files --stage -- /home/vnedina-/davi/ex00/ft_ft.c
+> git check-ignore -v -z --stdin
+> git show --textconv :davi/ex01/ft_ultimate_ft.c
+> git ls-files --stage -- /home/vnedina-/davi/ex01/ft_ultimate_ft.c
+> git check-ignore -v -z --stdin
+> git show --textconv :davi/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/davi/ex05/ft_putstr.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/ft_putstr.c
+> git cat-file -s 82fb4f3e577c86b4569841cfe9c08b450b783052
+> git show --textconv :C_01/ex05/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex05/main.c
+> git cat-file -s dfb7d6020eae13dd283598f979f6e46b7c7c9670
+> git show --textconv :davi/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/davi/ex05/ft_putstr.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :davi/ex06/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/davi/ex06/ft_strlen.c
+> git check-ignore -v -z --stdin
+> git show --textconv :C_01/ex06/main.c
+> git ls-files --stage -- /home/vnedina-/C_01/ex06/main.c
+> git cat-file -s 43d5f5e00e4aacc369cc995443bfc70a6b842daf
+> git show --textconv :davi/ex06/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/davi/ex06/ft_strlen.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/vnedina-/davi/ex06/a.out
+> git show --textconv :davi/ex06/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/davi/ex06/ft_strlen.c
+> git show --textconv :avaliacao/ex06/ft_print_comb2.c
+> git ls-files --stage -- /home/vnedina-/avaliacao/ex06/ft_print_comb2.c
+> git show --textconv :davi/ex06/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/davi/ex06/ft_strlen.c
+> git show --textconv :C06/ex00/ft_print_program_name.c
+> git ls-files --stage -- /home/vnedina-/C06/ex00/ft_print_program_name.c
+> git check-ignore -v -z --stdin
+> git show --textconv :davi/ex06/ft_strlen.c
+> git ls-files --stage -- /home/vnedina-/davi/ex06/ft_strlen.c
+> git show --textconv :davi/ex05/ft_putstr.c
+> git ls-files --stage -- /home/vnedina-/davi/ex05/ft_putstr.c
+> git show --textconv :avaliacao/ex01/ft_print_alphabet.c
+> git ls-files --stage -- /home/vnedina-/avaliacao/ex01/ft_print_alphabet.c
+> git check-ignore -v -z --stdin
+> git show --textconv :lenzo/ex05/ft_strlcat.c
+> git ls-files --stage -- /home/vnedina-/lenzo/ex05/ft_strlcat.c
+> git check-ignore -v -z --stdin
+> git show --textconv :lenzo/ex01/ft_strncmp.c
+> git ls-files --stage -- /home/vnedina-/lenzo/ex01/ft_strncmp.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

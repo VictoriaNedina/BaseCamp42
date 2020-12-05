@@ -1,0 +1,48 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vnedina-
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/teste/ex03/ft_atoi.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :C04/ex04/main.c
+> git ls-files --stage -- /home/vnedina-/C04/ex04/main.c
+> git show --textconv :C04/ex04/ft_putnbr_base.c
+> git ls-files --stage -- /home/vnedina-/C04/ex04/ft_putnbr_base.c
+> git show --textconv :teste/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/teste/ex03/main.c
+> git show --textconv :teste/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/teste/ex03/ft_atoi.c
+> git show --textconv :teste/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/teste/ex03/main.c
+> git show --textconv :teste/ex03/ft_atoi.c
+> git ls-files --stage -- /home/vnedina-/teste/ex03/ft_atoi.c
+> git check-ignore -v -z --stdin
+> git show --textconv :teste/ex03/main.c
+> git ls-files --stage -- /home/vnedina-/teste/ex03/main.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :aaa
+> git ls-files --stage -- /home/vnedina-/aaa
+> git check-ignore -v -z --stdin
+> git show --textconv :aaa
+> git ls-files --stage -- /home/vnedina-/aaa
+> git show --textconv :testeC_02.sh
+> git ls-files --stage -- /home/vnedina-/testeC_02.sh
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Comandos.txt
+> git ls-files --stage -- /home/vnedina-/Comandos.txt
